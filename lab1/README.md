@@ -11,7 +11,10 @@ server.py - основной сервер, осуществляющий прие
 | Original Image |  Noise on Proxy_Server | Denoise on Server | 
 |:----:|:----:|:----:|
 |![Screenshot](image/original.jpg) | ![Screenshot](image/proxy/image_noise_sp_on_proxy.jpg) | ![Screenshot](image/server/denoised_on_server.jpg) | 
+|![Screenshot](image/original1.jpg) | ![Screenshot](image/proxy/image_noise_sp_on_proxy1.jpg) | ![Screenshot](image/server/denoised_on_server1.jpg) | 
+|![Screenshot](image/original2.jpg) | ![Screenshot](image/proxy/image_noise_sp_on_proxy2.jpg) | ![Screenshot](image/server/denoised_on_server2.jpg) | 
+|![Screenshot](image/original3.jpg) | ![Screenshot](image/proxy/image_noise_sp_on_proxy3.jpg) | ![Screenshot](image/server/denoised_on_server3.jpg) | 
 
-<br><br>
+
 # Результаты
-В результате работы программы, испорченное изображение промежуточным сервером, было частично восстановлено. n
+В результате работы программы, испорченное изображение промежуточным сервером, было частично восстановлено основным.
